@@ -13,7 +13,7 @@ export default function App() {
 
 	<View style={styles.container}>
     <View style={styles.bloco}>
-	<Text style={styles.TextoBloco}>Cotação do Dólar: </Text>
+	<Text style={styles.TextoBloco}>Cotação do Dólar:  </Text>
 		  
 		  <TouchableOpacity style={styles.botao}
 			  onPress={carregaCotacao}>
